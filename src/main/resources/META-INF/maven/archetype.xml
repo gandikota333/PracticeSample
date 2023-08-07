@@ -1,5 +1,5 @@
 <archetype>
-  <id>amazonsearchbar</id>
+  <id>PracticeSample</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
